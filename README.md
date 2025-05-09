@@ -1,3 +1,5 @@
+Set Localhost 3000 using npm fisrt
+
 Gensyn Testnet
 
 ## Initial Setup
