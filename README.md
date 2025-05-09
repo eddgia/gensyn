@@ -1,6 +1,7 @@
-# Setup Instructions for Localhost 3000 using npm and Gensyn Testnet
+Gensyn Testnet
 
 ## Initial Setup
+Setup Instructions for Localhost 3000 using npm
 
 ```bash
 apt update && apt install -y sudo
